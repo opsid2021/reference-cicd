@@ -1,7 +1,7 @@
 ############################################################
 # Ping Identity DevOps values.yaml
 ############################################################
-# The yaml is seperated into 2 major sections: hello
+# The yaml is seperated into 2 major sections: 
 #  - global - Represents the base set of values that will
 #             be used for each product, if that product
 #             doesn't override the global values.
